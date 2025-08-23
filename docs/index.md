@@ -1,22 +1,24 @@
 # DSTI Internship & Dev Handbook
 
-Welcome to the **DSTI Handbook**! 🎉  
+Welcome to the **DSTI Handbook**!   
 This is your one-stop guide for internship curriculum, developer workflow, and essential resources.
 
 ---
 
-## 📚 Curriculum
+## Curriculum
 
 Learn everything you need to know during your internship.  
 
 - [Foundational Phase](curriculum/foundational-phase.md) – Core digital literacy, workplace readiness, and communication skills.  
 - [Development Track](curriculum/development-track.md) – Frontend, backend, deployment, and documentation.  
 - [Communications Track](curriculum/communications-track.md) – PR, digital media, and internal communications.  
-- [Data Science Track](curriculum/data-science-track.md) – Python/R, data analysis, machine learning, and projects.
+- [Project & Product Track](curriculum/project-product-track.md) – Office productivity, business process mapping, and professional communication.  
+- [Data Science Track](curriculum/data-science-track.md) – Python/R, data analysis, machine learning, and real-world application.
+
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 
 Follow our dev workflow for smooth collaboration and professional coding practices.  
 
@@ -26,7 +28,7 @@ Follow our dev workflow for smooth collaboration and professional coding practic
 
 ---
 
-## 🔗 Resources
+##  Resources
 
 Quick access to tools and links you’ll need.  
 
@@ -36,4 +38,4 @@ Quick access to tools and links you’ll need.
 ---
 
 > This handbook is a living document. Updates will be made regularly to keep content current and relevant.  
-> Happy learning and collaborating! ✨
+> Happy learning and collaborating! 
