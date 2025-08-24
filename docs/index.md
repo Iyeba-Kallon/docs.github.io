@@ -23,7 +23,7 @@ Learn everything you need to know during your internship.
 Follow our dev workflow for smooth collaboration and professional coding practices.  
 
 - [Git Guidelines](workflow/git-guidelines.md) – Branching strategy, Gitflow, and commit messages.  
-- [Pull Requests](workflow/pull-requests.md) – How to create, review, and merge PRs effectively.  
+- [Pull Requests](workflow/pull-request.md) – How to create, review, and merge PRs effectively.  
 - [Communication](workflow/communication.md) – Standups, async vs sync, tools, and documentation.
 
 ---
